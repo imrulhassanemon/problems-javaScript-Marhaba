@@ -26,7 +26,7 @@ console.log(fan);
 const hobby = 'Photography'
 console.log(hobby);
 
-// true false problems
+// true false practice
 
 const isRich = true;
 const passed = false;
